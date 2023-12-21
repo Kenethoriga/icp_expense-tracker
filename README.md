@@ -1,7 +1,7 @@
-# 🌉 Bridge23 App
+# 🌉 Expendy App
 
 ## 📜 Overview
-Bridge23 is a revolutionary, blockchain-powered personal expense tracker. Developed using Next.js and React, this app offers a secure and efficient way to manage expenses, harnessing the power of blockchain technology.
+Expendy is a revolutionary, blockchain-powered personal expense tracker. Developed using Next.js and React, this app offers a secure and efficient way to manage expenses, harnessing the power of blockchain technology.
 
 ## ⭐ Key Features
 - **🔗 Blockchain Integration**: Utilizes DFINITY and Juno blockchain technologies for enhanced security and data integrity.
@@ -29,7 +29,7 @@ For a complete list of dependencies, please refer to the `package.json` file in 
 To get started with Bridge23, clone the repository and install dependencies:
 
 git clone [repository-url]
-cd bridge23
+cd expendy
 ## npm install
 
 ## 🚀 Running the Application
@@ -45,7 +45,7 @@ yarn build
 yarn start
 🧾 Tesseract OCR Integration
 Adding OCR Functionality
-Bridge23 features Tesseract OCR for automated text extraction from images, aiding in efficient expense tracking. To integrate Tesseract OCR:
+expendy features Tesseract OCR for automated text extraction from images, aiding in efficient expense tracking. To integrate Tesseract OCR:
 
 yarn add tesseract.js
 Usage
@@ -58,9 +58,9 @@ We welcome contributions to the Bridge23 project. For major changes, please open
 This project is licensed under the MIT License.
 
 📖 About the Project
-Author: Bridge 23 Inc.
+Author: expendy Inc.
 
-Description: Bridge23 App is a proprietary project management software, designed to streamline expense tracking through advanced blockchain technology.
+Description: expendy App is a proprietary project management software, designed to streamline expense tracking through advanced blockchain technology.
 
 
 This revised version uses `yarn` commands which are appropriate if your project is set up with Yarn as the package manager. This Markdown content is ready to be used in your `README.md` file, ensuring consistency with your project's tooling.
